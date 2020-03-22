@@ -1,0 +1,13 @@
+﻿Time,Lat,Long,Troop_Size,Loc,Temp,Time_Alt,Path
+1/1/20,10,40,100,Paris,40,1,Start
+2/1/20,20,45,100,Base 1,30,2,Attack
+3/1/20,30,50,100,Base 2,30,3,Attack
+4/1/20,40,50,70,Base 3,20,4,Attack
+5/1/20,50,50,50,Base 4,15,5,Attack
+6/1/20,60,50,50,Moscow,15,6,Attack
+7/1/20,60,40,40,Moscow,10,1,Retreat
+8/1/20,50,30,40,Base 5,10,2,Retreat
+9/1/20,40,25,20,Base 6,15,3,Retreat
+10/1/20,30,30,5,Base 7,20,4,Retreat
+11/1/20,20,35,3,Base 8,30,5,Retreat
+12/1/20,10,30,1,Paris,40,6,End
